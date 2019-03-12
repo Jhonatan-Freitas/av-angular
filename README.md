@@ -7,5 +7,5 @@
 - Segunda página deve falar sobre suas habilidades técnicas.
 - Terceira página deve conter suas experiências profissionais e acadêmicas.
 
-<i>Jhonatan Freitas</i>
+<i>Aluno: Jhonatan Freitas</i>
 
